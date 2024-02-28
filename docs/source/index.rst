@@ -15,5 +15,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   readme
+   user_guide
