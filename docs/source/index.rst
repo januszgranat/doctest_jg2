@@ -1,6 +1,6 @@
 Welcome to Lumache's documentation!
 -----------------------------------
-Modified by JG
+Modified by JG2
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
