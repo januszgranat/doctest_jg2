@@ -1,19 +1,14 @@
-Welcome to Lumache's documentation!
------------------------------------
-Modified by JG2
-===================================
+.. pymcma documentation master file, created by
+   sphinx-quickstart on Mon Jan 15 15:01:09 2024.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+pyMCMA: uniformly distributed Pareto-front representation
+=========================================================
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+.. toctree::
+   :maxdepth: 3
+   :caption: Contents:
 
 Contents
 --------
