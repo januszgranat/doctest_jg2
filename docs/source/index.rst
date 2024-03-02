@@ -10,10 +10,6 @@ pyMCMA: uniformly distributed Pareto-front representation
    :maxdepth: 3
    :caption: Contents:
 
-Contents
---------
-
-.. toctree::
-
    readme
    user_guide
+
